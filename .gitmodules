@@ -1,0 +1,3 @@
+[submodule "temp_repository01"]
+	path = temp_repository01
+	url = https://github.com/ahq517/temp_repository01.git
